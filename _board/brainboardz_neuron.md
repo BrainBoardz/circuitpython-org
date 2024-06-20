@@ -18,6 +18,8 @@ features:
 ---
 
 - BrainBoardz is a revolutionary modular Mini PCI Express (mPCIe) based system that greatly simplifies the design of circuit boards and custom microcontroller projects. Through the use of our inexpensive ESP32-S3 based Neuron modules and our ever expanding range of BrainBoardz prototyping boards anyone can easily develop custom projects to harness the impressive capabilities of the latest generation Espressif ESP32-S3 microcontroller. Simply plug in a Neuron module to a BrainBoardz mPCIe connector and you are ready to go. Neurons not only provide complete access to the extensive range of capabilities provided by the cutting edge ESP32-S3, they can also function as standalone modules if required. You are welcome to design/manufacture your own BrainBoardz compatible boards and Neuron compatible module(s). The entire BrainBoardz system is open source and 100% license free.
+  
+- For more traditional 2.54mm header scenarios, please welcome to our latest board, the feature-packed Neuron-P. It has all of the capabilities of our Neuron-M module, but this time we have loaded it with over 40 2.54mm pins. The Neuron-P is the ideal solution for using on your own breadboards and for standalone projects.
 
 - The components we have included on the Neuron are those that are most likely to be needed in core operations for the vast majority of prototypes and production. These include an ultra-low noise5V to 3.3V LDO, a USB-C connector, a status LED and a MicroSD card reader. This razor focused approach ensures that we can provide the most affordable and flexible solution for ESP32-S3 microcontroller based projects!
 
@@ -39,7 +41,7 @@ features:
  - Support for 14 Touch Sensors
  - Blink LED
  - MicroSD Card Reader
- - Micro-USB Connector
+ - USB-C Connector
  - Low Noise 5V to 3.3V LDO
  - 2.54mm 4 Pin Header4 (Neuron-Z) Boards
  - Access to All of the ESP32-S3's GPIO Pins
